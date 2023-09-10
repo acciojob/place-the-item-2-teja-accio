@@ -1,2 +1,26 @@
-
 /* Your CSS Code here. */
+.holder{
+	display: flex;
+ 	justify-content: space-evenly;
+	/*flex-wrap: wrap; */
+}
+.holder>div{
+	width: 100px;
+	height: 100px;
+}
+.green{
+	background-color: green;
+	font-size: 50px;
+	text-align: center;
+}
+.red{
+	background-color: red;
+	font-size: 50px;
+	text-align: center;
+	
+}
+.blue{
+	background-color: blue;
+	font-size: 50px;
+	text-align: center;
+}
