@@ -2,8 +2,9 @@
 
 .holder{
 	display: flex;
-/*  	justify-content: space-evenly; */
-	/*flex-wrap: wrap; */
+	flex-wrap: wrap; /* Allow items to wrap to the next row */
+	  justify-content: center; /* Center items on the row */
+/* 	  align-items: center; */
 }
 .holder>div{
 	width: 100px;
