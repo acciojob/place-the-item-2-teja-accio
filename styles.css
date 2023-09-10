@@ -9,18 +9,18 @@
 	height: 100px;
 }
 .green{
-	background-color: green;
+	background: green;
 	font-size: 50px;
 	text-align: center;
 }
 .red{
-	background-color: red;
+	background: red;
 	font-size: 50px;
 	text-align: center;
 	
 }
 .blue{
-	background-color: blue;
+	background: blue;
 	font-size: 50px;
 	text-align: center;
 }
